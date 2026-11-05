@@ -13,7 +13,7 @@ Exercícios introdutórios em C sobre formatação de números e sequências de 
 
 ## Exercícios
 
-As pastas `arthur` e `silvio` contêm versões dos três exercícios:
+As pastas `arthur`, `silvio` e `filipe` contêm versões dos três exercícios:
 
 1. Exibir um valor decimal com a precisão padrão e com duas casas decimais.
 2. Exibir um número com duas casas decimais e arredondado para um inteiro.
